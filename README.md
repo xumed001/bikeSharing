@@ -2,7 +2,7 @@
  <img class='fit-picture' src="Resources/bike.jpg" > 
 
 
-- [tableau story](https://public.tableau.com/profile/sumed.tamang#!/)
+- [tableau story](https://public.tableau.com/app/profile/sumed.tamang/viz/NYCbikeSharingViz/NYCAnalysis)
 
 
 ## Overview
