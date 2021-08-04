@@ -1,4 +1,4 @@
-# BikeSharing Analysis
+# NYC BikeSharing Analysis
  <img class='fit-picture' src="Resources/bike.jpg" > 
 
 
