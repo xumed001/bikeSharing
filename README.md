@@ -2,7 +2,7 @@
  <img class='fit-picture' src="Resources/bike.jpg" > 
 
 
-- [link to challenge](https://public.tableau.com/profile/sumed.tamang#!/)
+- [tableau story](https://public.tableau.com/profile/sumed.tamang#!/)
 
 
 ## Overview
