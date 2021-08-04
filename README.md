@@ -6,7 +6,7 @@
 
 
 ## Overview
-This is an Analysis on New York Citys, Citibike tripdata. The analysis looks into how the bike ride service is performing and what the Userbase looks like. Along with all the user data to figure out key points which could be useful for future decision making. 
+This is an Analysis on New York Citys, Citibike tripdata from August of 2019. The analysis looks into how the bike ride service is performing and what the Userbase looks like. Along with all the user data to figure out key points which could be useful for future decision making. 
 
 ## Results:
 - The Analysis tells us that most users use the ride service for under an hour.
