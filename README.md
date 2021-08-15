@@ -6,7 +6,7 @@
 
 
 ## Project Overview
-This is an Analysis on New York Citys, Citibike tripdata from August of 2019. The analysis looks into how the bike ride service is performing and what the Userbase looks like. Along with all the user data to figure out key points which could be useful for future decision making. 
+This is an Analysis on New York City’s, Citibike trip data from August of 2019. The analysis investigates how the bike ride service is performing and what the Userbase looks like. Along with all the user data to figure out key points which could be useful for future decision making.
 
 ## Results:
 - The Analysis tells us that most users use the ride service for under an hour.
@@ -18,7 +18,7 @@ This is an Analysis on New York Citys, Citibike tripdata from August of 2019. Th
 - Lastly the heatmap show the service is mostly used in the city area and less in the suburbs.
 
 ## Summary
-The Analysis tells us that the bike sharing service is very popular. The ratio of subscribers to non-subscribers tells us that the business will likely be profitable when deployed in the city and downtown area. And the service will be in demand all week long fluctuating in peak usage hours depending on the day. In conclusion with the result of the analysis the bike sharing service seems to be a solid business.   
+The Analysis tells us that the bike sharing service is very popular. The ratio of subscribers to non-subscribers tells us that the business will likely be profitable when deployed in the city and downtown area. And the service will be in demand all week long fluctuating in peak usage hours depending on the day. In conclusion with the result of the analysis the bike sharing service seems to be a solid business.    
 
 ## Resources
 Data Source:
